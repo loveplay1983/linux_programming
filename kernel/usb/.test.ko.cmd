@@ -1,0 +1,1 @@
+cmd_/home/loveplay1983/Git/linux_programming/kernel/usb/test.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/loveplay1983/Git/linux_programming/kernel/usb/test.ko /home/loveplay1983/Git/linux_programming/kernel/usb/test.o /home/loveplay1983/Git/linux_programming/kernel/usb/test.mod.o
